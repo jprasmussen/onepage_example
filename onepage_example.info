@@ -1,0 +1,7 @@
+name = One Page Example
+description = This is an example theme
+package = Core
+version = 7.x-dev
+core = 7.x
+stylesheets[all][] = layout.css
+
